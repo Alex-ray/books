@@ -33,4 +33,4 @@ clone this repository
 `npm run dev`
 
 
-You can also view it live here -> https://books-1d31zlceq.now.sh
+You can also view it live here -> https://books-ppfajljos.now.sh
